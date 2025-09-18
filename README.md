@@ -15,6 +15,8 @@ Our philosophy is simple: absolute simplicity in the face of absolute stress.
 
 There is no login, no sign-up, no complicated menus for a victim to navigate. You open the app, and you are met with a single, large, interactive button: 'REPORT INCIDENT'. That's it. One press is all it takes to set in motion a powerful, automated safety net.
 
+## Presentation Slides [Aegis AI .pdf](https://github.com/user-attachments/files/22410145/Aegis.AI.pdf)
+
 ## To access Admin Portal 
 
 password : REVA 
